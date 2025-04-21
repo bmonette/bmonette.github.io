@@ -16,7 +16,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, this app was designed for simp
 
 ---
 
-## Tech Stack
+## Built With
 
 - **HTML5**  
 - **CSS3**  
@@ -31,5 +31,11 @@ Built with **HTML**, **CSS**, and **JavaScript**, this app was designed for simp
 2. App fetches latitude & longitude using Open-Meteo Geocoding API
 3. It then requests the current weather using those coordinates
 4. Displays the temperature, wind speed, and a weather emoji based on `weathercode`
+
+---
+
+## Demo:
+
+https://bmonette.github.io/weather-app/
 
 ---
