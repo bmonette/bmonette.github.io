@@ -1,3 +1,5 @@
+console.log("🧠 script.js is loaded!");
+
 document.addEventListener("DOMContentLoaded", () => {
   const steps = [
     "Think of a number between 1 and 10.",
